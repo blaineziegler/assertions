@@ -1,1 +1,2 @@
-# assertions
+# Synopsis
+Assertions provides static methods for asserting system state and failing fast if the assertions do not hold. Google Guava's Preconditions and Verify classes also provide this type of functionality, but Assertions offers more.
